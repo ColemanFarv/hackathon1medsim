@@ -56,10 +56,6 @@ Siobhan Lee emphasizes the project's distinctiveness: "We were determined to cre
 
 We thank our mentors and the entire project team for their support and guidance in developing NeuroNeck. Their contributions were invaluable in making this project a success.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 For more details, feel free to contact any of the contributors. We h
